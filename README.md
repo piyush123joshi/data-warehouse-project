@@ -1,6 +1,3 @@
-# data-warehouse-project
-Building a modern datawarehouse using sql-server, including ETL processes, data modelling and analytics.
-
 # 📦 Data Warehouse Project
 
 A modern data warehouse built on **SQL Server**, following the **Medallion Architecture** (Bronze → Silver → Gold). This project takes raw CRM and ERP data and transforms it into a clean, analytics-ready star schema.
